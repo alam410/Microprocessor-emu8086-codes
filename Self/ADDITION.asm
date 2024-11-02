@@ -2,7 +2,7 @@
 ;Sample input/output screen:
 ;Enter first digit: 3
 ;Enter second digit: 2
-;The result is: 1
+;The result is: 5
 
 .MODEL SMALL
 .STACK 100H
